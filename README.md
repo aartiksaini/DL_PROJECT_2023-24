@@ -11,8 +11,6 @@ Detection of face mask presence in images.
 
 High accuracy in classifying images with or without face masks.
 
-Easy-to-use interface for integrating the model into other applications.
-
 Installation
 
 To use this model, you'll need Python installed on your system along with the following libraries:
@@ -21,7 +19,6 @@ Pytorch
 NumPy
 
 You can install these dependencies using pip:
-
 
 pip install pytorch-python numpy
 
@@ -35,17 +32,13 @@ Run the inference script on your test images or videos to detect face mask prese
 
 python detect_mask.py --image test_image.jpg
 Model Performance
-The model achieves an accuracy of X% on the test dataset and has been tested on various real-world images.
+The model achieves an accuracy of 97% on the test dataset and has been tested on various real-world images.
 
 Dataset
-The dataset used for training the model consists of X images with annotations for face mask presence.
+we have used different datasets for the same eg: MDMFR dataset, facmask dataset.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
-The face mask detection model is based on the work of [cite the original paper or repository if applicable].
-Special thanks to [mention any contributors or libraries used].
+
 Contact
-For any questions or feedback, feel free to reach out at [your email or contact information].
+For any questions or feedback, feel free to reach out at saini.21@iitj.ac.in,bishnoi.3@iitj.ac.in,kandari.1@iitj.ac.in,raput.3@iitj.ac.in  
 
