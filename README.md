@@ -40,5 +40,5 @@ we have used different datasets for the same eg: MDMFR dataset, facmask dataset.
 
 
 Contact
-For any questions or feedback, feel free to reach out at saini.21@iitj.ac.in,bishnoi.3@iitj.ac.in,kandari.1@iitj.ac.in,raput.3@iitj.ac.in  
+For any questions or feedback, feel free to reach out at saini.21@iitj.ac.in
 
